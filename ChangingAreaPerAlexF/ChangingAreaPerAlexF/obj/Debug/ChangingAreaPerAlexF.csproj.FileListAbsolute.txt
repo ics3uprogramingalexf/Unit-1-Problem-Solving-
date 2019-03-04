@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\bin\Debug\ChangingAreaPerAlexF.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\bin\Debug\ChangingAreaPerAlexF.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\bin\Debug\ChangingAreaPerAlexF.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\obj\Debug\ChangingAreaPerAlexF.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\obj\Debug\ChangingAreaPerAlexF.frmChangingAreaPer.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\obj\Debug\ChangingAreaPerAlexF.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\obj\Debug\ChangingAreaPerAlexF.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\obj\Debug\ChangingAreaPerAlexF.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\ChangingAreaPerAlexF\ChangingAreaPerAlexF\obj\Debug\ChangingAreaPerAlexF.pdb

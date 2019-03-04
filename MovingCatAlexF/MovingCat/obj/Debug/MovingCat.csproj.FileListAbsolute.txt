@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\obj\Debug\MovingCat.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\obj\Debug\MovingCat.MovingCatForm.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\obj\Debug\MovingCat.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\obj\Debug\MovingCat.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\bin\Debug\MovingCat.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\bin\Debug\MovingCat.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\bin\Debug\MovingCat.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\obj\Debug\MovingCat.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Forgeron, Alexander (s244723)\Unit 1 (Problem Solving)\movingCat\MovingCat\MovingCat\obj\Debug\MovingCat.pdb
